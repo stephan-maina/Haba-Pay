@@ -1,0 +1,965 @@
+.ConfirmDelete {
+  position: absolute;
+  width: 154px;
+  height: 29px;
+  left: 400px;
+  top: -50px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 29px;
+  color: #323232;
+  white-space: nowrap;
+}
+
+.frame-295-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 80px;
+  gap: 80px;
+  position: absolute;
+  width: 911px;
+  height: 189.19px;
+  left: 170px;
+  top: 70px;
+  background: #fffefd;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+/* Vector */
+.vector-tick-Delete {
+  position: absolute;
+  left: -110px;
+  top: 80px;
+  width: 24px;
+  height: 24px;
+  background: url("/src/Images/Vector - 2024-04-04T143013.402.png") no-repeat;
+  background-size: cover;
+}
+
+.frame-294-Delete {
+  position: absolute;
+  left: 200px;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 192px;
+  height: 145px;
+}
+
+.personal-details-Delete {
+  width: 137px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+.frame-292-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 192px;
+  height: 102px;
+}
+
+.frame-290-Delete {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 60px;
+  height: 102px;
+}
+
+.name-Delete,
+.email-Delete,
+.Number-Delete,
+.Location-Delete {
+  width: 43px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.frame-291-Delete {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 122px;
+  height: 102px;
+}
+
+.john-doe-Delete {
+  width: 60px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.johndoe-mail-com-Delete {
+  width: 122px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.number-Delete {
+  width: 105px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.location-Delete {
+  width: 109px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 289 */
+.frame-289-Delete {
+  position: absolute;
+  left: 500px;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 145px;
+  height: 145px;
+}
+
+/* Account Details */
+.account-details-Delete {
+  width: 132px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 288 */
+.frame-288-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 145px;
+  height: 102px;
+}
+
+/* Frame 287 */
+.frame-287-Delete {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 63px;
+  height: 102px;
+}
+
+/* Status */
+.status-Delete {
+  width: 47px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Balance */
+.balance-Delete {
+  width: 57px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Business */
+.business-Delete {
+  width: 63px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Created */
+.created-Delete {
+  width: 56px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 286 */
+.frame-286-Delete {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 72px;
+  height: 102px;
+}
+
+/* Active */
+.active-Delete {
+  width: 39px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Ksh 00.00 */
+.ksh-Delete {
+  width: 65px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* n/a */
+.na-Delete {
+  width: 21px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* 2 Feb 2023 */
+.date-Delete {
+  width: 72px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 293 */
+.frame-293-Delete {
+  position: absolute;
+  left: 250px;
+  top: -0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 150px;
+  height: 149.19px;
+}
+
+/* Other Actions */
+.other-actions-Delete {
+  width: 115px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 212 */
+.frame-212-Delete {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 150px;
+  height: 106px;
+}
+
+/* Frame 199 */
+.frame-199-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 29.93px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.vector-Delete-1 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145135.472.png") no-repeat;
+  background-size: contain;
+}
+
+/* Edit profile */
+.edit-profile-Delete {
+  width: 69px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 58 */
+.frame-58-Delete-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 28.27px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.vector-Delete-2 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145140.195.png") no-repeat;
+  background-size: contain;
+}
+
+/* Suspend */
+.suspend-Delete {
+  width: 55px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 58 */
+.frame-58-Delete-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 28px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.vector-Delete-3 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145146.126.png") no-repeat;
+  background-size: contain;
+}
+
+/* Contact */
+.contact-Delete {
+  width: 49px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.frame-295-Delete2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 80px;
+  gap: 80px;
+  position: absolute;
+  width: 800px;
+  height: 189px;
+  left: -700px;
+  top: 250px;
+  background: #fffefd;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+/* Vector */
+.vector-tick-Delete2 {
+  position: absolute;
+  left: 80px;
+  top: 80px;
+  width: 24px;
+  height: 24px;
+  background: url("/src/Images/Vector - 2024-04-04T143013.402.png") no-repeat;
+  background-size: cover;
+}
+
+.frame-294-Delete2 {
+  position: absolute;
+  left: 150px;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 192px;
+  height: 145px;
+}
+
+.Personal-details-Delete2 {
+  width: 137px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+.frame-292-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 192px;
+  height: 102px;
+}
+
+.frame-290-Delete2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+  width: 60px;
+  height: 102px;
+}
+
+.name-Delete2,
+.email-Delete2,
+.Number-Delete2,
+.Location-Delete2 {
+  width: 43px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.frame-291-Delete2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 122px;
+  height: 102px;
+}
+
+.Chris-Mganda-Delete {
+  position: absolute;
+  left: 70px;
+  top: 45px;
+  width: 60px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+  white-space: nowrap;
+}
+
+.Email-Delete2 {
+  position: absolute;
+  left: 70px;
+  top: 75px;
+  width: 122px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+  white-space: nowrap;
+}
+
+.Number-Delete2 {
+  position: absolute;
+  left: 70px;
+  top: 105px;
+  width: 105px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+.Location-Delete2 {
+  position: absolute;
+  left: 70px;
+  top: 135px;
+  width: 109px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 289 */
+.frame-289-Delete2 {
+  position: absolute;
+  left: 450px;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 145px;
+  height: 145px;
+}
+
+/* Account Details */
+.account-details-Delete2 {
+  width: 132px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 288 */
+.frame-288-Delete2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 145px;
+  height: 102px;
+}
+
+/* Frame 287 */
+.frame-287-Delete2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 63px;
+  height: 102px;
+}
+
+/* Status */
+.status-Delete2 {
+  width: 47px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Balance */
+.balance-Delete2 {
+  width: 57px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Business */
+.business-Delete2 {
+  width: 63px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Created */
+.created-Delete2 {
+  width: 56px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 286 */
+.frame-286-Delete2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 72px;
+  height: 102px;
+}
+
+/* Active */
+.active-Delete2 {
+  width: 39px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Ksh 00.00 */
+.ksh-Delete {
+  width: 65px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Squarefour */
+.Squarefour-Delete {
+  width: 21px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* 30 Jan 2023 */
+.Date-Delete2 {
+  width: 72px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 293 */
+.frame-293-Delete2 {
+  position: absolute;
+  left: 700px;
+  top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 150px;
+  height: 140px;
+}
+
+/* Other Actions */
+.other-actions-Delete2 {
+  width: 115px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 212 */
+.frame-212-Delete2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 150px;
+  height: 106px;
+}
+
+/* Frame 199 */
+.frame-199-Delete2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 29.93px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.Vector-Delete-1 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145135.472.png") no-repeat;
+  background-size: contain;
+}
+
+/* Edit profile */
+.edit-profile-Delete-2 {
+  width: 69px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 58 */
+.Frame-58-Delete-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 28.27px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.Vector-Delete-2 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145140.195.png") no-repeat;
+  background-size: contain;
+}
+
+/* Suspend */
+.Suspend-Delete {
+  width: 55px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 58 */
+.Frame-58-Delete-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+  width: 150px;
+  height: 28px;
+  background: #fffbf4;
+}
+
+/* Vector */
+.Vector-Delete-3 {
+  width: 20px;
+  height: 20px;
+  background: url("/src/Images/Vector - 2024-03-28T145146.126.png") no-repeat;
+  background-size: contain;
+}
+
+/* Contact */
+.Contact-Delete {
+  width: 49px;
+  height: 18px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #323232;
+}
+
+/* Frame 218 */
+.frame-218-Delete {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  position: absolute;
+  width: 500px;
+  height: 43px;
+  left: -450px;
+  top: 260px;
+}
+
+/* Frame 191 */
+.frame-191-Delete {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  width: 240px;
+  height: 43px;
+  border: 1px solid #fdac15;
+  border-radius: 5px;
+}
+
+/* Users (hidden) */
+.users-Delete {
+  display: none;
+  width: 24px;
+  height: 22.2px;
+  background: #898989;
+}
+
+/* Cancel */
+.cancel-Delete {
+  position: absolute;
+  left: 85px;
+  top: -10px;
+  width: 57px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 23px;
+  color: #fdac15;
+}
+
+/* Frame 123 */
+.frame-123-Delete {
+  position: absolute;
+  top: 2px;
+  left: 280px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  width: 240px;
+  height: 25px;
+  background: #fdac15;
+  border-radius: 5px;
+}
+
+/* Delete */
+.Delete-Delete {
+  position: absolute;
+  top: -10px;
+  left: 100px;
+  width: 55px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 23px;
+  color: #fffefd;
+}

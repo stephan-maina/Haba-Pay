@@ -1,0 +1,307 @@
+.MainContainer {
+  width: 1300px;
+  height: 990px;
+  position: relative;
+}
+
+.HabaPayTitle {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #323232;
+  position: absolute;
+  left: 64px;
+  top: 59px;
+}
+
+.LoginContainer {
+  width: 370px;
+  height: 552px;
+  background: #fffefd;
+  border: 0.5px solid #ded9d9;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  position: absolute;
+  left: 505px;
+  top: 120px;
+}
+
+.WelcomeBackTitle {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #323232;
+  position: absolute;
+  top: 70px;
+  left: 85px;
+}
+
+.SignInText {
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #323232;
+  font-weight: 400;
+  font-size: 18px;
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  white-space: nowrap;
+}
+
+.SignInButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 0px;
+  width: 240px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 240px;
+  height: 20px;
+  left: 65px;
+  top: 480px;
+  background: #fdac15;
+  border-radius: 5px;
+}
+
+/* SignIn */
+.SignText {
+  position: absolute;
+  left: 150px;
+  top: 485px;
+  width: 108px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 23px;
+  color: #fffefd;
+  z-index: 1;
+  text-decoration: none;
+}
+
+.Vector-signIn {
+  position: absolute;
+  width: 150px;
+  height: 0;
+  margin: 0 10px;
+  left: 39%;
+  top: 52.8%;
+  border: 0.5px solid #32323265;
+}
+
+.Vectora-signIn {
+  position: absolute;
+  width: 35px;
+  height: 26px;
+  left: 45%;
+  top: 35%;
+  background: url("/src/Images/Vector (47).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vectorb-signIn {
+  position: absolute;
+  width: 25px;
+  height: 26px;
+  left: 45.5%;
+  top: 35.5%;
+  background: url("/src/Images/Vector (72).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector2-signIn {
+  position: absolute;
+  width: 35px;
+  height: 80px;
+  left: 44%;
+  top: 37.5%;
+  background: url("/src/Images/Vector (48).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector3-signIn {
+  position: absolute;
+  width: 55px;
+  height: 20px;
+  left: 44.5%;
+  top: 41%;
+  background: url("/src/Images/Vector (49).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector4-signIn {
+  position: absolute;
+  width: 10px;
+  height: 15px;
+  left: 46.3%;
+  top: 39.5%;
+  background: url("/src/Images/Vector (53).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector5-signIn {
+  position: absolute;
+  width: 23px;
+  height: 75px;
+  left: 44.7%;
+  top: 44.6%;
+  background: url("/src/Images/Vector (52).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector6-signIn {
+  position: absolute;
+  width: 25px;
+  height: 75px;
+  left: 43.5%;
+  top: 44.5%;
+  background: url("/src/Images/Vector (51).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector7-signIn {
+  position: absolute;
+  width: 22px;
+  height: 10px;
+  left: 44.9%;
+  top: 52%;
+  background: url("/src/Images/Vector (57).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector8-signIn {
+  position: absolute;
+  width: 22px;
+  height: 15px;
+  left: 43.3%;
+  top: 51.6%;
+  background: url("/src/Images/Vector (54).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector9-signIn {
+  position: absolute;
+  width: 37px;
+  height: 67px;
+  left: 46.8%;
+  top: 38.5%;
+  background: url("/src/Images/Vector (50).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector10-signIn {
+  position: absolute;
+  width: 26px;
+  height: 60px;
+  left: 47.6%;
+  top: 36.3%;
+  background: url("/src/Images/Vector (59).png") no-repeat;
+  background-size: cover;
+  transform: rotate(-0deg);
+}
+
+.Vector11-signIn {
+  position: absolute;
+  width: 40px;
+  height: 83px;
+  left: 49.5%;
+  top: 36.8%;
+  background: url("/src/Images/Vector (58).png") no-repeat;
+  background-size: cover;
+}
+
+.Vector12-signIn {
+  position: absolute;
+  width: 10px;
+  height: 13px;
+  left: 55.5%;
+  top: 41.5%;
+  background: url("/src/Images/Vector (60).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector13-signIn {
+  position: absolute;
+  width: 80px;
+  height: 38px;
+  left: 55.1%;
+  top: 39.2%;
+  background: url("/src/Images/Vector (61).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector14-signIn {
+  position: absolute;
+  width: 10px;
+  height: 17px;
+  left: 56.5%;
+  top: 41.1%;
+  background: url("/src/Images/Vector (62).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector15-signIn {
+  position: absolute;
+  width: 10px;
+  height: 11px;
+  left: 57.4%;
+  top: 41.7%;
+  background: url("/src/Images/Vector (63).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector16-signIn {
+  position: absolute;
+  width: 115px;
+  height: 170px;
+  left: 53.5%;
+  top: 32%;
+  background: url("/src/Images/Vector (73).png") no-repeat;
+  background-size: cover;
+  border: 5px solid #c9c9c9;
+  box-sizing: border-box;
+  padding: 2px;
+}
+
+.Vector17-signIn {
+  position: absolute;
+  width: 10px;
+  height: 21px;
+  left: 58.3%;
+  top: 40.7%;
+  background: url("/src/Images/Vector (64).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector18-signIn {
+  position: absolute;
+  width: 10px;
+  height: 28px;
+  left: 59.3%;
+  top: 40%;
+  background: url("/src/Images/Vector (65).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.Vector19-signIn {
+  position: absolute;
+  width: 64px;
+  height: 25px;
+  left: 55.5%;
+  top: 39%;
+  background: url("/src/Images/Vector (66).png") no-repeat;
+  background-size: cover;
+  z-index: 1;
+}

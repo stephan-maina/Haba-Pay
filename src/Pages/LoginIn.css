@@ -1,0 +1,173 @@
+.HabaPayTitle2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #323232;
+  position: absolute;
+  left: -450px;
+  top: -10px;
+  transition: color 0.3s ease;
+}
+
+.HabaPayTitle2:hover,
+.HabaPayTitle2:active {
+  color: #fdac15;
+}
+
+/* Rectangle 27 */
+.MainContainer-1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 550px;
+  left: 500px;
+  top: 30px;
+  background: #fffefd;
+  border: 0.5px solid #ded9d9;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+/* Log in to Account */
+.HugeBoldTitle {
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 29px;
+  color: #323232;
+  position: absolute;
+  width: 175px;
+  height: 29px;
+  left: 100px;
+  top: 80px;
+}
+
+/* Input & label */
+.LoginInputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  width: 310px;
+  height: 68px;
+  left: 30px;
+  top: 200px;
+}
+
+/* Email */
+.EmailLabel {
+  width: 48px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Rectangle 10 */
+.InputField {
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Placeholder */
+.Placeholder {
+  display: none;
+  width: 65px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 32 */
+.LoginInputContainer2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  width: 310px;
+  height: 68px;
+  left: 30px;
+  top: 320px;
+}
+
+/* Password */
+.PasswordLabel {
+  width: 82px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Rectangle 10 */
+.InputField2 {
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Placeholder */
+.Placeholder2 {
+  position: absolute;
+  width: 65px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Frame 123 */
+.ButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 240px;
+  height: 43px;
+  left: 65px;
+  top: 450px;
+  background: #fdac15;
+  border-radius: 5px;
+}
+
+/* Processing... */
+.ProcessingText {
+  position: absolute;
+  left: 125px;
+  top: 460px;
+  width: 108px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 23px;
+  color: #fffefd;
+  z-index: 1;
+  text-decoration: none;
+  background: #fdac15;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 240px;
+  height: 43px;
+  left: 65px;
+  top: 450px;
+}

@@ -1,0 +1,222 @@
+/* Frame 155 */
+.Frame-155-transaction-1-processing {
+  position: relative;
+  width: 370px;
+  height: 552px;
+}
+
+/* Rectangle 27 */
+.Rectangle-27-transaction-1-processing {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 552px;
+  left: 550px;
+  top: 30px;
+  background: #fffefd;
+  border: 0.5px solid #ded9d9;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+/* Confirm Identity */
+.Confirm-Identity-transaction-1-processing {
+  position: absolute;
+  width: 169px;
+  height: 29px;
+  left: 650px;
+  top: 130px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 29px;
+  color: #323232;
+}
+
+/* Frame 123 */
+.Frame-123-transaction-1-processing {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  position: absolute;
+  width: 250px;
+  height: 30px;
+  left: -50px;
+  top: 370px;
+  background: #fdac15;
+  border-radius: 5px;
+}
+
+/* Users */
+.Users-transaction-1-processing {
+  display: none;
+  width: 24px;
+  height: 22.2px;
+  background: #898989;
+}
+
+/* Finish */
+.Finish-transaction-1 {
+  position: absolute;
+  left: 680px;
+  top: 490px;
+  width: 51px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 23px;
+  color:#fffefd;
+  z-index: 1;
+}
+
+/* Line 1 */
+.Line-1-transaction-1-processing {
+  position: absolute;
+  width: 287px;
+  height: 0px;
+  left: -10px;
+  top: -300px;
+  border: 1px solid #fff7e8;
+}
+
+/* Group 54 */
+.Group-54-transaction-1-processing {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 318px;
+  top: 19px;
+}
+
+/* Ellipse 20 */
+.Ellipse-20-transaction-1-processing {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: -60px;
+  top: -460px;
+  background: #fff7e8;
+}
+
+/* Vector */
+.Vector-Transaction-1-processing {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 5px;
+  top: 5px;
+  color: #898989;
+  font-size: 25px;
+}
+
+/* Input & label */
+.Input-Label-transaction-1-processing {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  position: absolute;
+}
+
+/* Frame 32 */
+.frame-32-transaction-1-processing {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  width: 310px;
+  height: 68px;
+}
+
+/* Amount */
+.Amount-transaction-1-processing {
+  position: absolute;
+  left: 580px;
+  top: 350px;
+  width: 48px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Rectangle 10 */
+.Rectangle-10-transaction-1-processing {
+  position: absolute;
+  left: 580px;
+  top: 380px;
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Password Input */
+.Rectangle-10-transaction-1-processing input[type="password"] {
+  width: calc(100% - 20px);
+  height: 50%;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+}
+
+/* Placeholder Text */
+.rectangle-10-transaction-1-processing input[type="password"]::placeholder {
+  color: #a0a0a0;
+}
+
+/* Rectangle 10 */
+.Rectangle-10-transaction-2-processing {
+  position: absolute;
+  left: 580px;
+  top: 280px;
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Email Input */
+.Rectangle-10-transaction-2-processing input[type="Email"] {
+  width: calc(100% - 20px);
+  height: 50%;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+}
+
+/* Placeholder Text */
+.Rectangle-10-transaction-2-processing input[type="Email"]::placeholder {
+  color: #a0a0a0;
+}
+
+/* Email */
+.Email-transaction-1-processing {
+  position: absolute;
+  left: 580px;
+  top: 250px;
+  width: 48px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}

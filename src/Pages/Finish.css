@@ -1,0 +1,223 @@
+/* Frame 155 */
+.Frame-155-transaction {
+  position: relative;
+  width: 370px;
+  height: 552px;
+}
+
+/* Rectangle 27 */
+.Rectangle-27-transaction {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 552px;
+  left: 550px;
+  top: 30px;
+  background: #fffefd;
+  border: 0.5px solid #ded9d9;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+/* Confirm Identity */
+.Confirm-Identity-transaction {
+  position: absolute;
+  width: 169px;
+  height: 29px;
+  left: 650px;
+  top: 130px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 29px;
+  color: #323232;
+}
+
+/* Frame 123 */
+.Frame-123-transaction {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  position: absolute;
+  width: 250px;
+  height: 30px;
+  left: 600px;
+  top: 480px;
+  background: #fdac15;
+  border-radius: 5px;
+}
+
+/* Users */
+.Users-transaction {
+  display: none;
+  width: 24px;
+  height: 22.2px;
+  background: #898989;
+}
+
+/* Finish */
+.Finish-transaction {
+  position: absolute;
+  left: 95px;
+  top: -12px;
+  width: 51px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 23px;
+  color: #fffefd;
+  z-index: 1;
+}
+
+/* Line 1 */
+.Line-1-transaction {
+  position: absolute;
+  width: 287px;
+  height: 0px;
+  left: 580px;
+  top: 200px;
+  border: 1px solid #fff7e8;
+}
+
+/* Group 54 */
+.Group-54-transaction {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 318px;
+  top: 19px;
+}
+
+/* Ellipse 20 */
+.Ellipse-20-transaction {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 550px;
+  top: 20px;
+  background: #fff7e8;
+}
+
+/* Vector */
+.Vector-transaction {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 5px;
+  top: 5px;
+  color: #898989;
+  font-size: 25px;
+}
+
+/* Input & label */
+.Input-Label-transaction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  position: absolute;
+}
+
+/* Frame 32 */
+.Frame-32-transaction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  width: 310px;
+  height: 68px;
+}
+
+/* Amount */
+.Amount-transaction {
+  position: absolute;
+  left: 580px;
+  top: 350px;
+  width: 48px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}
+
+/* Rectangle 10 */
+.Rectangle-10-transaction {
+  position: absolute;
+  left: 580px;
+  top: 380px;
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Password Input */
+.Rectangle-10-transaction input[type="password"] {
+  width: calc(100% - 20px);
+  height: 50%;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+}
+
+/* Placeholder Text */
+.Rectangle-10-transaction input[type="password"]::placeholder {
+  color: #a0a0a0;
+}
+
+/* Rectangle 10 */
+.rectangle-10-transaction-1 {
+  position: absolute;
+  left: 580px;
+  top: 280px;
+  box-sizing: border-box;
+  width: 310px;
+  height: 40px;
+  border: 1px solid #ded9d9;
+  border-radius: 5px;
+}
+
+/* Email Input */
+.rectangle-10-transaction-1 input[type="email"] {
+  width: calc(100% - 20px);
+  height: 50%;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+}
+
+/* Placeholder Text */
+.rectangle-10-transaction-1 input[type="email"]::placeholder {
+  color: #a0a0a0;
+}
+
+/* Email */
+.Email-transaction {
+  position: absolute;
+  left: 580px;
+  top: 250px;
+  width: 48px;
+  height: 23px;
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #323232;
+}

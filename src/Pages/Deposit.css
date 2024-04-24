@@ -1,0 +1,339 @@
+.Rectangle-27-transaction-deposit {
+    box-sizing: border-box;
+    position: absolute;
+    width: 370px;
+    height: 552px;
+    left: 550px;
+    top: 30px;
+    background: #fffefd;
+    border: 0.5px solid #ded9d9;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+  }
+  
+  /* Frame 54 */
+  .Frame-54-transaction-deposit {
+    position: absolute;
+    width: 370px;
+    height: 552px;
+    left: 0;
+    top: 0;
+  }
+  
+  /* Frame 186 */
+  .Frame-186-transaction-deposit {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 30px;
+    top: 190px;
+  }
+  
+  /* Request by */
+  .request-by-transaction-deposit {
+    width: 94px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* Jane Mukenya M. */
+  .name-transaction-deposit {
+    width: 140px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+    top: 25px;
+  }
+  
+  /* Frame 184 */
+  .Frame-184-transaction-deposit {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    position: absolute;
+    width: 145px;
+    height: 51px;
+    left: 30px;
+    top: 360px;
+  }
+  
+  /* Number */
+  .number-transaction-deposit {
+    width: 68px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    white-space: nowrap;
+  }
+  
+  /* +254 712345678 */
+  .phone-transaction-deposit {
+    position: absolute;
+    top: 25px;
+    width: 145px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+  }
+  
+  /* Frame 185 */
+  .Frame-185-transaction-deposit {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    position: absolute;
+    width: 68px;
+    height: 51px;
+    left: 30px;
+    top: 300px;
+  }
+  
+  /* Amount */
+  .amount-transaction-deposit {
+    width: 67px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+  }
+  
+  /* Ksh 240 */
+  .amount-value-transaction-deposit {
+    position: absolute;
+    top: 25px;
+    width: 68px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+  }
+  
+  /* Frame 183 */
+  .Frame-183-transaction-deposit {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    position: absolute;
+    width: 212px;
+    height: 51px;
+    left: 30px;
+    top: 430px;
+  }
+  
+  /* Time */
+  .time-transaction-deposit {
+    width: 42px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+  }
+  
+  /* 12:45 PM 5th March 2023 */
+  .time-value-transaction-deposit {
+    position: absolute;
+    top: 25px;
+    width: 212px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+    position: absolute;
+  }
+  
+  /* Frame 187 */
+  .Frame-187-transaction-deposit {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    position: absolute;
+    width: 141.21px;
+    height: 24px;
+    left: 114px;
+    top: 126px;
+  }
+  
+  /* Vector */
+  .vector-transaction-deposit {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 0px;
+    top: -7px;
+    background: url("/src/Images/Vector - 2024-04-08T104318.453.png") no-repeat;
+    background-size: contain;
+  }
+  
+  /* Deposited */
+  .deposited-transaction-deposit {
+    position: absolute;
+    left: 40px;
+    width: 97px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fdac15;
+  }
+  
+  /* Transaction Details */
+  .transaction-details-transaction-deposit {
+    position: absolute;
+    width: 197px;
+    height: 29px;
+    left: 86px;
+    top: 77px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #323232;
+  }
+  
+  /* Line 1 */
+  .Line-1-transaction-deposit {
+    position: absolute;
+    width: 287px;
+    height: 0px;
+    left: 42px;
+    top: 170px;
+    border: 1px solid #fff7e8;
+  }
+  
+  /* Group 54 */
+  .Group-54-transaction-deposit {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  /* Ellipse 20 */
+  .Ellipse-20-transaction-deposit {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 318px;
+    top: 20px;
+    background: #fff7e8;
+  }
+  
+  /* Vector */
+  .vector-transaction2-deposit {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 5px;
+    top: 5px;
+    color: #898989;
+    font-size: 25px;
+  }
+  
+  /* Line 28 */
+  #line-28-deposit {
+    position: absolute;
+    left: 140px;
+    top: 230px;
+    width: 70px;
+    height: 0;
+    border: 0.5px solid #ded9d962;
+    transform: rotate(90deg);
+  }
+  
+  /* To */
+  #to-deposit {
+    position: absolute;
+    left: 220px;
+    top: 190px;
+    width: 20px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+  }
+  
+  /* Jane Mukenya */
+  #jane-mukenya-deposit {
+    position: absolute;
+    left: 220px;
+    top: 220px;
+    width: 116px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+  }
+  
+  /* Phone number */
+  #phone-number-deposit {
+    position: absolute;
+    left: 220px;
+    top: 240px;
+    width: 108px;
+    height: 23px;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #323232;
+  }
+  
